@@ -1,0 +1,7 @@
+*.tfstate
+*.lock
+assets
+*.terraform
+terraform-provider-aws_v5.34.0_x5.exe
+
+
